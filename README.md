@@ -18,10 +18,10 @@ Funcionalidades solicitadas e desenvolvidas no Desafio:
 
 Funcionalidades complementares que podem ser implementadas:
 
-- :white_square_button: Não permitir criar uma tarefa Vazio (plus) - IMPLEMENTADO!
-- :white_square_button: Não permitir criar uma tarefa somente com mais de 4 caracteres (plus) - IMPLEMENTADO!
-- :white_square_button: Validar se uma tarefa já existe (plus) - IMPLEMENTADO!
-- :white_square_button: Exibir alerta pedindo confirmação ao remover uma tarefa (plus) - IMPLEMENTADO
+- :white_check_mark: Não permitir criar uma tarefa Vazio (plus)
+- :white_check_mark: Não permitir criar uma tarefa somente com mais de 4 caracteres (plus)
+- :white_check_mark: Validar se uma tarefa já existe (plus)
+- :white_check_mark: Exibir alerta pedindo confirmação ao remover uma tarefa (plus)
 - :white_square_button: Editar uma tarefa da listagem (plus)
 - :white_square_button: Guardar a lista de tarefas no AsyncStorage (plus)
 - :white_square_button: Tema dark e light (plus)
